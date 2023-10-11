@@ -22,5 +22,6 @@ int main(){
     cout<<"Do dai choi con chung dai nhat cua X va Y "<<LCS_dp(m,n)<<endl;
     t2=clock();
     cout<<t2-t1<<endl;
+    print("Day la bai tim chuoi con chung dai nhat ")
     return 0;
 }
