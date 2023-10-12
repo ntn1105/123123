@@ -24,4 +24,5 @@ int main(){
     cout<<t2-t1<<endl;
     print("Day la bai tim chuoi con chung dai nhat ")
     return 0;
+    cout<<"Nhandeptrai:';
 }
